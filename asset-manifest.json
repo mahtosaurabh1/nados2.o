@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/nados2.o/static/css/main.44bf91b0.css",
-    "main.js": "/nados2.o/static/js/main.831cdc1c.js",
+    "main.css": "/nados2.o/static/css/main.06539e65.css",
+    "main.js": "/nados2.o/static/js/main.416fd854.js",
     "static/js/787.5bf0e82b.chunk.js": "/nados2.o/static/js/787.5bf0e82b.chunk.js",
     "static/media/img1.png": "/nados2.o/static/media/img1.98af48f72600c26351be.png",
     "static/media/student.png": "/nados2.o/static/media/student.dc864d5237ac558d63db.png",
     "index.html": "/nados2.o/index.html",
-    "main.44bf91b0.css.map": "/nados2.o/static/css/main.44bf91b0.css.map",
-    "main.831cdc1c.js.map": "/nados2.o/static/js/main.831cdc1c.js.map",
+    "main.06539e65.css.map": "/nados2.o/static/css/main.06539e65.css.map",
+    "main.416fd854.js.map": "/nados2.o/static/js/main.416fd854.js.map",
     "787.5bf0e82b.chunk.js.map": "/nados2.o/static/js/787.5bf0e82b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.44bf91b0.css",
-    "static/js/main.831cdc1c.js"
+    "static/css/main.06539e65.css",
+    "static/js/main.416fd854.js"
   ]
 }
